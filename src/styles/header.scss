@@ -2,6 +2,9 @@ header.header {
   background: var(--blue);
   padding-top: 2rem;
   
+  h1 {
+    color: #fff;
+  }
   > div {
     max-width: 1120px;
     margin: 0 auto;
